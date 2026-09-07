@@ -1,73 +1,31 @@
-# Btissam Arehal
+# Hi, I'm Btissam Arehal 👋
 
-> Data Scientist | ML Engineer | Building intelligent systems that matter
+**Data Scientist · ML Engineer · Data Analyst**
 
----
+I turn data into decisions: from exploratory analysis and model development to APIs, dashboards, and production-oriented ML workflows. I am currently pursuing a Master's degree in Data Science at ENSET Tétouan, Morocco.
 
-## 👋 About Me
+## Featured projects
 
-I'm a **Master's student in Data Science** at ENSET Tétouan, passionate about transforming raw data into actionable intelligence. I believe the best solutions come from understanding both the mathematics behind algorithms and the business problems they solve.
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| [PortFlow Maritime](https://github.com/btissam75/portflow-maritime) | Maritime decision-support platform combining forecasting, operational analytics, APIs, and dashboards | Python, FastAPI, React, TypeScript, Docker, MLflow |
+| [3D Tree Species Classification](https://github.com/btissam75/tree-species-classification) | Comparison of multi-view, classical ML, PointNet, and DGCNN approaches on 3D point clouds | PyTorch, scikit-learn, Open3D |
+| [IoT Vision MQTT Pipeline](https://github.com/btissam75/iot-vision-mqtt-pipeline) | Real-time computer-vision pipeline with distributed MQTT publishers | Python, PyTorch, OpenCV, MQTT |
+| [Hospital Appointment Management](https://github.com/btissam75/hospital-appointment-management) | Full-stack appointment management, analytics, and report exports | Java, Spring Boot, Vue.js, MongoDB |
 
+## What I work with
 
+- **Data science and analytics:** Python, pandas, NumPy, scikit-learn, statistical analysis, data visualization, model evaluation
+- **Machine learning:** time-series forecasting, anomaly detection, computer vision, deep learning, feature engineering
+- **ML engineering:** PyTorch, FastAPI, Docker, MLflow, data pipelines, REST APIs
+- **Data products:** React, TypeScript, dashboards, decision-support interfaces
 
----
+## Current focus
 
-## 🧠 What Fascinates Me
+I am interested in roles where I can explore and explain data, build reliable predictive models, and help turn them into useful products. I am open to **Data Scientist**, **Machine Learning Engineer**, and **Data Analyst** opportunities.
 
-### Predictive Systems
-Anticipating the future from patterns in data. Time series forecasting, anomaly detection, maintenance prediction. The idea that you can look at what happened yesterday and prepare for tomorrow fascinates me.
+## Contact
 
-### Deep Learning
-Teaching machines to see, understand, and reason. CNNs, RNNs, Transformers, 3D vision. There's something magical about watching a neural network discover patterns in raw data that humans missed.
-
-### Production ML
-Moving beyond notebooks. Real APIs, dashboards, monitoring, real-time inference at scale. Because a model that doesn't run in production is just a math exercise.
-
-### Data Engineering
-Building pipelines, ETL workflows, and data infrastructure that scales. The unglamorous work that makes everything else possible.
-
----
-
-## 🛠 How I Work
-
-**Full-stack approach:** I don't believe in handoffs. I take ownership from data exploration to model deployment, including frontend dashboards and backend APIs.
-
-**Rigorous:** Testing, validation, and metrics matter. I evaluate models beyond accuracy—looking at RMSE, precision-recall tradeoffs, business impact.
-
-**Curious:** I constantly explore new architectures, techniques, and frameworks. Latest in LLMs, time-series forecasting, graph neural networks—always learning.
-
----
-
-## 📚 Primary Interests
-
-`Time Series Analysis` • `Deep Learning` • `Anomaly Detection` • `Forecasting` • `3D Vision` • `Production ML` • `Data Pipelines` • `LLMs & RAG`
-
----
-
-## 🚀 Currently Exploring
-
-Building intelligent systems that **automate decision-making** in complex domains. Right now focused on:
-
-- **Advanced time-series architectures** (Temporal Fusion Transformers, N-BEATS)
-- **LLM integration** with retrieval systems for domain-specific AI
-- **Models that learn** from production data in real-time
-
----
-
-## 🎯 What I'm Looking For
-
-A role where I can build AI systems that **actually matter**. Not just optimizing metrics, but solving real business problems with measurable impact.
-
-I want to work with teams that value **shipping products**, not just publishing papers. Where the bar is high, the problems are hard, and the learning is constant.
-
----
-
-## 💬 Let's Connect
-
-- 📧 **Email:** .arehalbtissam7@email.com
-- 🐙 **GitHub:** [https://github.com/btissam75](https://github.com)
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/btissam-arehal-a95ab9266/](https://linkedin.com)
-
----
-
-> "A model that doesn't run in production is just a math exercise."
+- Email: [arehalbtissam@email.com](mailto:arehalbtissam@email.com)
+- LinkedIn: [linkedin.com/in/btissam-arehal-a95ab9266](https://www.linkedin.com/in/btissam-arehal-a95ab9266/)
+- GitHub: [github.com/btissam75](https://github.com/btissam75)
