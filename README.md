@@ -2,7 +2,7 @@
 
 **Data Scientist · ML Engineer · Data Analyst**
 
-I turn data into decisions: from exploratory analysis and model development to APIs, dashboards, and production-oriented ML workflows. I am currently pursuing a Master's degree in Data Science at ENSET Tétouan, Morocco.
+I turn data into decisions: from exploratory analysis and model development to APIs, dashboards, and production-oriented ML workflows. I am currently pursuing a Master's degree in Data Science .
 
 ## Featured projects
 
