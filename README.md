@@ -55,7 +55,7 @@ Master's student in Data Science with hands-on experience across data engineerin
 - ETL/ELT pipelines
 - Workflow orchestration
 - Prefect · Apache Airflow
-- API & MQTT ingestion
+- API & batch-data ingestion
 - Data preprocessing
 - Data-quality validation
 - Dockerized workflows
@@ -88,7 +88,7 @@ Master's student in Data Science with hands-on experience across data engineerin
 
 ## Selected engineering work
 
-### Industrial Predictive Maintenance
+### [Industrial Predictive Maintenance](https://github.com/btissam75/industrial-predictive-maintenance)
 
 An end-to-end industrial reliability application that combines data preprocessing, exploratory analysis, machine-learning and deep-learning models, GAN-based experimentation, predictive-maintenance workflows, and interactive dashboards. The project is structured as a multi-page analytical application with reusable trained-model assets.
 
