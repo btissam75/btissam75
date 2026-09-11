@@ -4,7 +4,7 @@
 
 ### Data Scientist · Machine Learning Engineer · Data Analyst
 
-I build end-to-end data products — from exploratory analysis and statistical modelling to deep-learning systems, APIs, dashboards, and decision-support applications.
+I design end-to-end data and AI products — from reliable data pipelines and exploratory analysis to production-ready machine-learning systems, APIs, dashboards, and decision-support applications.
 
 [![Email](https://img.shields.io/badge/Email-Contact-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arehalbtissam@email.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Btissam_Arehal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/btissam-arehal-a95ab9266/)
@@ -16,99 +16,109 @@ I build end-to-end data products — from exploratory analysis and statistical m
 
 ## Profile
 
-Master's student in Data Science with hands-on experience across machine learning, analytics, computer vision, time-series forecasting, OCR, IoT pipelines, and full-stack data applications. I focus on building systems that are technically rigorous, reproducible, and understandable to their users.
-
-My work spans three complementary areas:
-
-- **Data Science:** translate raw data into measurable insights and validated predictive models;
-- **ML Engineering:** turn experiments into reusable inference pipelines, APIs, and applications;
-- **Data Analytics:** communicate patterns, performance, and operational signals through clear visualizations.
+Master's student in Data Science with hands-on experience across data engineering, machine learning, analytics, computer vision, time-series forecasting, OCR, IoT pipelines, and full-stack data applications. I turn raw data into reliable pipelines, validated models, and useful products, with particular attention to reproducibility, explainability, and measurable results.
 
 ## Technical expertise
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td width="25%" valign="top">
 
-### Data & Analytics
+### Data Science
 
-Python · pandas · NumPy  
-Statistical analysis  
-Feature engineering  
-Time-series analysis  
-Data visualization  
-Model evaluation
+- Python · pandas · NumPy
+- Statistical analysis
+- Exploratory data analysis
+- Feature engineering
+- Time-series analysis
+- Data visualization
+- Model evaluation
 
 </td>
-<td valign="top" width="33%">
+<td width="25%" valign="top">
 
 ### Machine Learning
 
-scikit-learn · PyTorch  
-Deep learning · CNN · CRNN  
-Computer vision · OCR  
-Forecasting · Anomaly detection  
-Point-cloud classification  
-Temporal cross-validation
+- scikit-learn · PyTorch
+- Deep learning · CNN · CRNN
+- Computer vision · OCR
+- Forecasting
+- Anomaly detection
+- Point-cloud classification
+- Temporal cross-validation
 
 </td>
-<td valign="top" width="33%">
+<td width="25%" valign="top">
 
-### Engineering
+### Data Engineering
 
-FastAPI · REST APIs  
-Docker · MLflow · MQTT  
-React · TypeScript · Vue.js  
-Spring Boot · MongoDB  
-Git · GitHub  
-Web3 · Solidity · RAG
+- ETL/ELT pipelines
+- Workflow orchestration
+- Prefect · Apache Airflow
+- API & MQTT ingestion
+- Data preprocessing
+- Data-quality validation
+- Dockerized workflows
+
+</td>
+<td width="25%" valign="top">
+
+### ML & Product Engineering
+
+- FastAPI · REST APIs
+- Docker · MLflow
+- React · TypeScript · Vue.js
+- Spring Boot · MongoDB
+- Git · GitHub
+- Web3 · Solidity · RAG
 
 </td>
 </tr>
 </table>
 
-## Featured public projects
+## Featured projects
 
-| Project | Problem and contribution | Evidence | Stack |
-| --- | --- | --- | --- |
-| **[PortFlow Maritime](https://github.com/btissam75/portflow-maritime)** | Maritime operational intelligence combining arrival forecasting, historical replay, analytics, APIs, and dashboards | Probabilistic horizons and operational error monitoring | Python, FastAPI, MLflow, Docker |
-| **[Industrial Sensor Time-Series Forecasting](https://github.com/btissam75/industrial-sensor-time-series-forecasting)** | Forecasts UR3 robot sensor measurements with seasonal and exogenous signals | SARIMAX RMSE **0.1264**, MAE **0.1021**, five-fold temporal validation | pandas, statsmodels, scikit-learn |
-| **[3D Tree Species Classification](https://github.com/btissam75/tree-species-classification)** | Compares classical ML, multi-view learning, PointNet, and DGCNN for 3D point-cloud classification | Multiple modelling families evaluated on one reproducible task | PyTorch, scikit-learn, Open3D |
-| **[IoT Vision MQTT Pipeline](https://github.com/btissam75/iot-vision-mqtt-pipeline)** | Distributed computer-vision workflow connecting image inference to MQTT publishers | End-to-end data flow from vision model to messaging layer | Python, PyTorch, OpenCV, MQTT |
-| **[Hospital Appointment Management](https://github.com/btissam75/hospital-appointment-management)** | Manages patients, doctors, appointments, analytics, and operational report exports | Full-stack domain application with PDF and Excel reporting | Java, Spring Boot, Vue.js, MongoDB |
+| Project | What it demonstrates | Key technologies / results |
+|---|---|---|
+| [PortFlow Maritime](https://github.com/btissam75/portflow-maritime-operations) | Maritime-operations analytics and decision support | Data analysis · dashboards · operational KPIs |
+| [Industrial Sensor Time-Series Forecasting](https://github.com/btissam75/industrial-sensor-time-series-forecasting) | Reproducible forecasting workflow for industrial sensor signals | SARIMAX · temporal validation · RMSE **0.1264** · MAE **0.1021** |
+| [3D Tree Species Classification](https://github.com/btissam75/3d-tree-species-classification) | Classification of tree species from 3D point-cloud data | Python · ML · point-cloud features |
+| [IoT Vision MQTT Pipeline](https://github.com/btissam75/iot-vision-mqtt-pipeline) | Event-driven computer-vision pipeline for connected systems | Computer vision · MQTT · real-time data flow |
+| [Hospital Appointment Management](https://github.com/btissam75/hospital-appointment-management) | Full-stack application for healthcare scheduling workflows | Application architecture · data management · UX |
 
 ## Selected engineering work
 
+### Industrial Predictive Maintenance
+
+An end-to-end industrial reliability application that combines data preprocessing, exploratory analysis, machine-learning and deep-learning models, GAN-based experimentation, predictive-maintenance workflows, and interactive dashboards. The project is structured as a multi-page analytical application with reusable trained-model assets.
+
 ### Handwritten Algorithm OCR to Python
 
-A custom OCR system developed from scratch to recognize handwritten pseudo-code and transform it into Python. The modelling pipeline uses a compact CRNN, CNN feature extraction, bidirectional LSTM sequence modelling, CTC loss, OpenCV preprocessing, and Levenshtein-based correction. Best validation CER: **15.87%**.
+A complete OCR system for handwritten algorithms: custom OCR experimentation, recognition pipeline, algorithm interpretation, and Python code generation, integrated with a React/FastAPI application. Evaluation includes **CER 15.87%** on the documented test setup.
 
 ### Intelligent Real-Estate Investment Platform
 
-A modular investment application combining a React/TypeScript interface, REST services, Web3 wallet flows, Solidity smart contracts, NFT services, and a RAG assistant built around intent routing, knowledge retrieval, and LLM integration.
+A data-driven property-investment platform combining smart contracts, property and transaction workflows, and a RAG assistant that retrieves contextual information to support investor questions and decisions.
 
 ## How I approach projects
 
-`Define the problem → inspect the data → establish a baseline → validate correctly → explain errors → package the result → document limitations`
-
-- I use chronological validation for forecasting instead of random splits.
-- I report metrics with context rather than presenting isolated scores.
-- I connect modelling work to APIs, interfaces, and operational workflows.
-- I document reproducibility constraints and avoid overstating prototype results.
+1. Define the decision, user, and measurable objective.
+2. Build and validate the data pipeline before modelling.
+3. Establish a transparent baseline and suitable validation strategy.
+4. Compare approaches using reproducible experiments and relevant metrics.
+5. Package the result as an API, dashboard, or usable application.
+6. Document assumptions, limitations, and next improvements clearly.
 
 ## Currently exploring
 
-- production-oriented forecasting and anomaly-detection systems;
-- reliable OCR and document-intelligence pipelines;
-- retrieval-augmented AI applications;
-- ML observability, experiment tracking, and model-serving workflows.
-
-<a id="opportunities"></a>
+- Reliable orchestration for data and ML pipelines with Prefect and Apache Airflow
+- Production-oriented ML systems, experiment tracking, and monitoring
+- Retrieval-augmented generation for domain-specific decision support
+- Computer vision and OCR for documents and handwritten content
+- Forecasting and predictive maintenance for industrial systems
 
 ## Opportunities
 
-I am open to **Data Scientist**, **Machine Learning Engineer**, and **Data Analyst** opportunities where I can combine analytical reasoning, predictive modelling, and product-oriented engineering.
+I am open to internships and junior opportunities in **Data Science, Machine Learning Engineering, Data Analytics, and Data Engineering**, particularly where analytics, modelling, and product delivery come together.
 
-- **Email:** [arehalbtissam@email.com](mailto:arehalbtissam@email.com)
-- **LinkedIn:** [btissam-arehal-a95ab9266](https://www.linkedin.com/in/btissam-arehal-a95ab9266/)
-- **GitHub:** [btissam75](https://github.com/btissam75)
+**Contact:** [arehalbtissam@email.com](mailto:arehalbtissam@email.com) · [LinkedIn](https://www.linkedin.com/in/btissam-arehal-a95ab9266/)
