@@ -82,15 +82,12 @@ Master's student in Data Science with hands-on experience across data engineerin
 |---|---|---|
 | [PortFlow Maritime](https://github.com/btissam75/portflow-maritime-operations) | Maritime-operations analytics and decision support | Data analysis · dashboards · operational KPIs |
 | [Industrial Sensor Time-Series Forecasting](https://github.com/btissam75/industrial-sensor-time-series-forecasting) | Reproducible forecasting workflow for industrial sensor signals | SARIMAX · temporal validation · RMSE **0.1264** · MAE **0.1021** |
+| [Industrial Predictive Maintenance](https://github.com/btissam75/industrial-predictive-maintenance) | End-to-end system for anticipating industrial equipment failures | Preprocessing · predictive ML · deep learning · GAN experiments · interactive dashboards |
 | [3D Tree Species Classification](https://github.com/btissam75/3d-tree-species-classification) | Classification of tree species from 3D point-cloud data | Python · ML · point-cloud features |
 | [IoT Vision MQTT Pipeline](https://github.com/btissam75/iot-vision-mqtt-pipeline) | Event-driven computer-vision pipeline for connected systems | Computer vision · MQTT · real-time data flow |
 | [Hospital Appointment Management](https://github.com/btissam75/hospital-appointment-management) | Full-stack application for healthcare scheduling workflows | Application architecture · data management · UX |
 
 ## Selected engineering work
-
-### [Industrial Predictive Maintenance](https://github.com/btissam75/industrial-predictive-maintenance)
-
-An end-to-end industrial reliability application that combines data preprocessing, exploratory analysis, machine-learning and deep-learning models, GAN-based experimentation, predictive-maintenance workflows, and interactive dashboards. The project is structured as a multi-page analytical application with reusable trained-model assets.
 
 ### Handwritten Algorithm OCR to Python
 
